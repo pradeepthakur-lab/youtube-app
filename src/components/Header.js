@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from 'react-redux'
 import { toggleMenu } from '../redux/appSlice';
 import { YOUTUBE_SEARCH_API } from '../utils/contants';
 import { cacheResult } from '../redux/searchSlice';
+import normalize from 'normalize-text';
 
 const Header = () => {
     const dispatch = useDispatch();

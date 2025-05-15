@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY =  "AIzaSyBxvzSaxB2OhMHLmQbUGAR-UE8t_P6pV4U"; // AIzaSyAtIibgU4boIyzkgbabBCe8BJJsBSfNlWA
+const GOOGLE_API_KEY = "AIzaSyCQH_0Lh2mqR8tV06_LUC9Jjps-TJFaUKE"; // "AIzaSyBxvzSaxB2OhMHLmQbUGAR-UE8t_P6pV4U"; // AIzaSyAtIibgU4boIyzkgbabBCe8BJJsBSfNlWA
 
 export const LIVE_CHAT_COUNT = 25;
 
